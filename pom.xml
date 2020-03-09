@@ -11,6 +11,7 @@
         <module>km-common</module>
         <module>km-portal-web</module>
         <module>km-admin-web</module>
+        <module>km-user</module>
     </modules>
     <packaging>pom</packaging>
 

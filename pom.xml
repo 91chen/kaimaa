@@ -13,6 +13,7 @@
         <module>km-admin-web</module>
         <module>km-user</module>
         <module>km-article</module>
+        <module>km-opensource</module>
     </modules>
     <packaging>pom</packaging>
 

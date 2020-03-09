@@ -8,6 +8,7 @@
     <version>2.0.0</version>
     <modules>
         <module>km-model</module>
+        <module>km-common</module>
     </modules>
     <packaging>pom</packaging>
 

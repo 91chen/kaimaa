@@ -12,6 +12,7 @@
         <module>km-portal-web</module>
         <module>km-admin-web</module>
         <module>km-user</module>
+        <module>km-article</module>
     </modules>
     <packaging>pom</packaging>
 

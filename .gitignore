@@ -90,7 +90,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-# Project Custom
-/log/
-/src/main/resources/application-prod.yml
